@@ -119,4 +119,13 @@ lib/
  ├─ widgets/
  ├─ utils/
  ├─ main.dart
-
+---
+###2️⃣ Tạo file .env
+OPENWEATHER_API_KEY=YOUR_API_KEY
+---
+###3️⃣ Cài dependencies
+flutter pub get
+---
+###4️⃣ Chạy ứng dụng
+flutter run
+---
